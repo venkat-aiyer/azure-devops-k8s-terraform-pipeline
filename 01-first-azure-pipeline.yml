@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
+- script: echo Hello, world, Updated on 28th-Dec-2024!
   displayName: 'Run a one-line script'
 
 - script: |
