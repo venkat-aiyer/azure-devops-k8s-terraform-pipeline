@@ -3,6 +3,7 @@
 # Uses default VPC and Subnet. Create Your Own VPC and Private Subnets for Prod Usage.
 # terraform-backend-state-in28minutes-123
 # AKIA4AHVNOD7OOO6T4KI
+#  subnets         = ["subnet-042187fad2f9b6948", "subnet-0973d499594855181"] #CHANGE
 
 
 terraform {
